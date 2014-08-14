@@ -39,7 +39,7 @@ Here are the major design decisions for this project. If a design decision has b
 * OOP visibility of methods and properties
 * Vendor extensions
 
-**IMPORTANT**: Each item in the list above MUST be a cross-cutting design decision (as opposed to a "vertical" or "functional" design decision - e.g. design of a particular service).
+**IMPORTANT**: To ensure consistency of design across the SDK, each item in the list above MUST be a cross-cutting design decision (as opposed to a "vertical" or "functional" design decision - e.g. design of a particular service).
 
 ## Coding Conventions
 
