@@ -10,7 +10,7 @@
 
 1. In keeping with guideline #1, all changes to this file (`CONTRIBUTING.md`) must also be made via a PR. This PR will require a +1 comment from at least one core contributor from each organization before it is merged.
 
-# Core Contributors
+## Core Contributors
 
 * A small set of people are designated as Core Contributors on this project. These people are expected to be frequent contributors and reviewers on this project.
 
@@ -27,7 +27,7 @@
 
 * When core contributors are removed from the list above, their write access to this repo will be revoked. They may still submit PRs but not merge them.
 
-# Design Decisions
+## Design Decisions
 
 Here are the major design decisions for this project. If a design decision has been made, the item below links to a page detailing the design. If a design decision is pending, the item below links to an issue with the assignee accountable for that decision.
 
@@ -41,6 +41,6 @@ Here are the major design decisions for this project. If a design decision has b
 
 **IMPORTANT**: Each item in the list above MUST be a cross-cutting design decision (as opposed to a "vertical" or "functional" design decision - e.g. design of a particular service).
 
-# Coding Conventions
+## Coding Conventions
 
 All code in this project must conform to [PSR-2](http://www.php-fig.org/psr/psr-2/).
