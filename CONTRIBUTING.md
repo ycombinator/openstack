@@ -23,9 +23,9 @@
 
 * To suggest a change, any contributor - core or not - may submit a PR to this file with the change to the list of contributors above and an explanation for the proposed change. Per the last point in the Contributing Guidelines section above, this PR will require a +1 comment from at least one core contributor from each organization before it is merged.
 
-* When core contributors are added to the list above, they will be given write access to this repo so they may merge PRs.
+* When core contributors are added to the list above, they will be given write access to this repository so they may merge PRs.
 
-* When core contributors are removed from the list above, their write access to this repo will be revoked. They may still submit PRs but not merge them.
+* When core contributors are removed from the list above, their write access to this repository will be revoked. They may still submit PRs but not merge them.
 
 ## Design Decisions
 
