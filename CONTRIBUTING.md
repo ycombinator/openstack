@@ -1,6 +1,6 @@
 # Contributing Guidelines
 
-1. Please fork this repository into your personal account. All contributions to this repository must be made as pull requests (PRs) to the `dev` branch from your fork.
+1. Please fork this repository into your personal account. All contributions to this repository must be made as pull requests (PRs) from your fork to the `dev` branch of this repository.
 
 1. Changes submitted in PRs must adhere to our [Coding Conventions](#coding-conventions) and [Design Decisions](#design-decisions).
 
