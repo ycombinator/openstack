@@ -31,13 +31,13 @@
 
 Here are the major design decisions for this project. If a design decision has been made, the item below links to a page detailing the design. If a design decision is pending, the item below links to an issue with the assignee accountable for that decision.
 
-* Capturing user requirements in a testable fashion
-* Service layer
-* REST layer
-* Transport layer
-* Parameter passing
-* OOP visibility of methods and properties
-* Vendor extensions
+* Capturing user requirements in a testable fashion.
+* Service layer: the primary layer end-users will interact with. This layer uses human-readable terminology and concepts that are both useful and meaningful to users of the SDK.
+* REST layer: the intermediary layer which connects the service layer above it to the transport layer below it in a RESTful manner. This layer will mirror the OpenStack REST API structure.
+* Transport layer: the low-level layer responsible for transporting HTTP requests and receiving HTTP responses, usually via cURL. It has no understanding of either OpenStack services or REST.
+* Parameter passing to methods.
+* OOP visibility of methods and properties.
+* Vendor extensions.
 
 **IMPORTANT**: To ensure consistency of design across the SDK, each item in the list above MUST be a cross-cutting design decision (as opposed to a "vertical" or "functional" design decision - e.g. design of a particular service).
 
