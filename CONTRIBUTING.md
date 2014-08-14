@@ -8,7 +8,7 @@
 
 1. All discussions happen in the open, via issues and PRs. If there are discussions happening elsewhere, please bring them into issues and PRs.
 
-1. In keeping with guideline #1, all changes to this file (`CONTRIBUTING.md`) must also be made via a pull request. This pull request will require a +1 comment from at least one core contributor from each organization.
+1. In keeping with guideline #1, all changes to this file (`CONTRIBUTING.md`) must also be made via a PR. This PR will require a +1 comment from at least one core contributor from each organization before it is merged.
 
 # Core Contributors
 
