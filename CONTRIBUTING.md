@@ -4,7 +4,7 @@
 
 1. Changes submitted in PRs must adhere to our [Coding Conventions](#Coding_Conventions) and [Design Decisions](#Design Decisions).
 
-1. Your PR will be reviewed by one or more [Core Contributors](#Core_Contributors). As long as a PR has a +1 from any of the Core Contributors (other than the author her/himself), the PR may be merged. If a PR is not merged within 7 calendar days of the last activity (comment or commit) on it, the author may self-merge the PR at that point.
+1. Your PR will be reviewed by one or more [Core Contributors](#Core_Contributors). As long as a PR has a +1 comment on it from *any* of the Core Contributors (other than the author her/himself), the PR may be merged. If a PR is not merged within 7 calendar days of the last activity (comment or commit) on it, the author may self-merge the PR at that point.
 
 1. All discussions happen in the open, via issues and PRs. If there are discussions happening elsewhere, please bring them into issues and PRs.
 
