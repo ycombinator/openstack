@@ -21,7 +21,7 @@
 
 * From time to time, core contributors may be added or removed from this project, depending on their recent availability (contributions and/or reviews) to the project.
 
-* To suggest a change, any contributor - core or not - may submit a PR to this file with the change to the list of contributors above and an explanation for the proposed change. Per the last point in the Contributing Guidelines section above, this PR will require a +1 comment from at least one core contributor from each organization before it is merged.
+* To suggest a change to the list of core contributors, any contributor - core or not - may submit a PR with the change to the list of contributors above and an explanation for the proposed change. Per the last point in the Contributing Guidelines section above, this PR will require a +1 comment from at least one core contributor from each organization before it is merged.
 
 * When core contributors are added to the list above, they will be given write access to this repository so they may merge PRs.
 
